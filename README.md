@@ -4,7 +4,7 @@
 ### About me
 - 👦🏻 I am Neel Patel from India.
 - 👨🏻‍💻 I’m a student by day and a programmer by night.
-- 🌱 I’m currently apprehending Computer Science.
+- 🌱 I’m currently studying Computer Science.
 
 ### Skills I am familiar with
 - Python  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="25"/>  
