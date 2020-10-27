@@ -16,6 +16,7 @@
 
 ### Contributions to
 - [python-geeks/Automation-scripts](https://github.com/python-geeks/Automation-scripts)
+- [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
 
 <br/> 
 
