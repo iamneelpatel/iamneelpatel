@@ -20,6 +20,12 @@
 
 <br/> 
 
+### Capture the flag, writeups! 
+
+<a href="https://atmosfearctf.blogspot.com/" target="_blank"><img height="25" scr="https://cdn.worldvectorlogo.com/logos/blogger-1.svg"></a>
+
+<br/>
+
 **💬 Contact me**
 
 <p>
