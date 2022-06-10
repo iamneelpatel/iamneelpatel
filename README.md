@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Carloz's+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Neel's+GitHub+Profile!)](https://git.io/typing-svg)
 ***********************************
 ## Hi there 👋
 
 ### About me
-- 👦🏻 I am Carloz.
-- 👨🏻‍💻 I’m a student by day and a programmer by night.
+- 👦🏻 I am Neel.
+- 👨🏻‍💻 A student by day and a programmer by night.
 - 🌱 I’m currently studying Computer Science.
 
 ### Skills I am familiar with
