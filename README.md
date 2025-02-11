@@ -14,7 +14,7 @@
 - Web development  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="25"/>  
 - Automation <img src="https://img.icons8.com/nolan/2x/settings.png" height="25"/>
 - Web Development <img src="https://global.discourse-cdn.com/auth0/original/2X/a/ae35edce19e64c53e5d455b22e8a2c82d093d4c9.png" height="25"/>
-- App Development <img src="https://www.igmguru.com/blog/what-is-react-native" height="25"/>
+- App Development <img src="[https://www.igmguru.com/blog/what-is-react-native](https://cdn.shopaccino.com/igmguru/articles/What-Is-React-Native.png?v=530)" height="25"/>
 
 
 ### Contributions to
@@ -25,10 +25,8 @@
 
 **💬 Contact me**
 
-<p>
-<a href="https://github.com/iamneelpatel" target="_blank"><img height="25" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg"></a>  
-<a href="mailto:neelpatel1804@gmail.com" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
-</p>
+- <a href="https://github.com/iamneelpatel" target="_blank"><img height="25" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg"></a>  
+- <a href="mailto:neelpatel1804@gmail.com" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
 <br/>
 
 #### Thank You 🙏🏼 <br/>
