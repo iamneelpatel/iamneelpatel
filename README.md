@@ -8,7 +8,7 @@
 - 🌱 I’m currently studying Computer Science.
 
 ### Skills I am familiar with
-- Python  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="25"/>  
+- Python  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="5"/>  
 - Java  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="25"/>  
 - Capture the flag  <img src="https://cdn.worldvectorlogo.com/logos/tic-computer.svg" height="25"/>
 - Web development  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="25"/>  
