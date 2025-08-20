@@ -4,8 +4,8 @@
 
 ### About me
 - 👦🏻 I am Neel.
-- 👨🏻‍💻 A student by day and a programmer by night.
-- 🌱 I’m currently studying Computer Science.
+- 👨🏻‍💻 A fin-tech professional.
+- 🌱 I’m currently working in a finance based company.
 
 ### Skills I am familiar with
 - Python  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="5"/>  
